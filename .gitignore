@@ -1,0 +1,12 @@
+# JUCE / Visual Studio
+Builds/
+.vs/
+x64/
+
+# Visual Studio files
+*.sln
+*.vcxproj*
+*.user
+*.pdb
+*.ilk
+*.obj
